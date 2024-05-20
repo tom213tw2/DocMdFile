@@ -46,5 +46,8 @@ port 要跟上面port 一致
 
 
 ### 重啟進程
+```
 pkill -f "dotnet WebApplication7.dll --urls http://localhost:5001"
+```
+
 
